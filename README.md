@@ -13,3 +13,6 @@ imports: [
     AppRoutingModule,
     HttpClientModule
   ],
+
+API TESTE UTILIZADA NOS EXEMPLOS:
+http://dummy.restapiexample.com/
